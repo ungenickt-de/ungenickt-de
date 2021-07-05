@@ -1,4 +1,5 @@
 ### Hey! 👋
 
-Willkommen ich bin´s Noah cool das du hier bist 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ungenickt-de)](https://github.com/anuraghazra/github-readme-stats)
+
 
